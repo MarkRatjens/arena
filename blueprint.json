@@ -5,15 +5,15 @@
 	},
   "bindings": [
     {
-      "identifier": "dns",
-      "target": {
-        "repository": "https://github.com/MarkRatjens/powerdns.git"
-      }
-    },
-    {
       "identifier": "containing",
       "target": {
         "repository": "https://github.com/MarkRatjens/lxd.git"
+      }
+    },
+    {
+      "identifier": "dns",
+      "target": {
+        "repository": "https://github.com/MarkRatjens/powerdns.git"
       }
     }
   ]
